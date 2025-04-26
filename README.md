@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 👦 I'm 17 years old.
+- 👦 I'm 18 years old.
 
-- 🌱 I’m currently learning Python and R. I'll soon start my degree in Computer Science
-
+- 🌱 I’m currently learning Python and R, and I'm studying computer science.
 - 😄 Pronouns: he/him
 
 
