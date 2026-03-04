@@ -2,7 +2,7 @@
 
 - 👦 I'm 19 years old.
 
-- 🌱 I’m currently learning Python and R, and I'm studying computer science.
+- 🌱 I’m currently studying computer science.
 - 😄 Pronouns: he/him
 
 
